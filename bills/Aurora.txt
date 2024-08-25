@@ -1,0 +1,6 @@
+Bill breakdown:
+sachet:                   ...$4
+beet:                     ...$5
+salad:                    ...$6.75
+tip:                      ...$2
+total:                    ...$17.75

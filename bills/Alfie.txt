@@ -1,0 +1,6 @@
+Bill breakdown:
+sachets:                  ...$5
+cat food:                 ...$150
+snacks:                   ...$8.5
+tip:                      ...$10
+total:                    ...$173.50
